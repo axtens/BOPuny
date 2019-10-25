@@ -1,0 +1,3 @@
+LIBRARY "BOP"
+EXPORTS ToPunyCode
+EXPORTS FromPunyCode
